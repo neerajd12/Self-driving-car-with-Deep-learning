@@ -4,7 +4,7 @@
 
 ## Model Design:
 
-The model is similar to the model developed for <a href="https://github.com/neerajdixit/ND/tree/master/Traffic%20Sign%20classifier%20with%20Deep%20Learning">other project</a> since in both the projects the model looks at an image and produces a label, the only difference being, that this project has single output label compared to 43 in the previous one.
+The model is similar to the model developed for <a href="https://github.com/neerajdixit/Traffic-Sign-classifier-with-Deep-Learning">other project</a> since in both the projects the model looks at an image and produces a label, the only difference being, that this project has single output label compared to 43 in the previous one.
 
 With my already pretrained network(NDNet) I just had to add and additional Fully connected layer at the end to get single output and make it work for this task.
 
